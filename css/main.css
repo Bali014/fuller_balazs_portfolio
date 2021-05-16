@@ -21,6 +21,11 @@ img{
   width: 100%;
   min-height: 100%;
 }
+#rolambox{
+	text-align: left;
+	padding-top: 20px;
+	margin-left: 0%;
+}
 .rolam{
 	text-align: left;
 	padding-top: 20px;
@@ -127,7 +132,7 @@ p{
   	width: auto;
   	border-radius: 50%;
   	float: right;
-  	margin-right: 10%;
+  	margin-right: 20%;
 
 }
 /*--gallery_felepites--*/
