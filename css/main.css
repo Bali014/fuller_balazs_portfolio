@@ -54,6 +54,7 @@ p{
 		;
 		grid-template-rows: max-content 1fr max-content;
 		min-height: 100vh;
+		min-width: 800px;
 
 	}
 	header{
@@ -189,4 +190,7 @@ img {
 .evszam{
 	text-align: center;
 	font-size: 72px;
+}
+h2{
+	margin-top: 20px;
 }
